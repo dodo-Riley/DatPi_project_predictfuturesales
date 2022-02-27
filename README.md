@@ -17,8 +17,8 @@
     - 결과 평가지표는 `RMSE(root mean squared error)`이며, target 데이터는 0~20 범위로 제한되어있음
 
 ### [프로젝트 수행 인원]
-    - 팀명 : DatPi
-    - 팀원 : 송종호, 구세은, 박건희, 김유정, 양수지
+- 팀명 : DatPi
+- 팀원 : 송종호, 구세은, 박건희, 김유정, 양수지
 
 ### [프로젝트 간 활용 도구]
 - Jupyter Notebook : 데이터 분석 및 탐색, 모델링 등 프로젝트의 전반적인 과정
@@ -27,3 +27,6 @@
 - Notion : 일정 관리 및 진행 과정 수시 공유, 결과물 포트폴리오화
 - MS Powerpoint : 최종 보고 자료 작성
 - Zoom : 상황 공유 및 회의
+
+### [kaggle 제출 결과]
+![submission_result](https://user-images.githubusercontent.com/96458726/155886847-d8e4ede3-87b3-4255-9889-77e447af435c.png)
