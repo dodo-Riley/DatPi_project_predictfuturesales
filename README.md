@@ -8,7 +8,7 @@
 
 - 개인별 폴더 내에는 팀원별 담당 모델의 수행 내용이 포함되어 있습니다.
 
-- 전체 프로젝트 수행 과정 및 정리 내역은 노션 페이지 `노션 주소`로 이동하셔서 확인하실 수 있습니다.
+- 전체 프로젝트 수행 과정 및 정리 내역은 [노션 페이지](https://datpi.notion.site/DatPi_project-99ddb858eacd402687725e1cc06a621f)로 이동하셔서 확인하실 수 있습니다.
 
 ### [프로젝트 주제]
 - Kaggle competition “[Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)” 참가
